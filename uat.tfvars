@@ -1,0 +1,5 @@
+ecs_cluster_name = "tarmizi-ecs-cluster-uat"
+ecs_service_name = "tarmizi-ecs-service-uat"
+ecs_task_defn_family = "tarmizi-ecs-task-def-uat"
+ecs_container_name = "tarmizi-container-uat"
+ecs_port_name = "tarmizi-3000-tcp-uat"

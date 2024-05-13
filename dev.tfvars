@@ -1,0 +1,5 @@
+ecs_cluster_name = "tarmizi-ecs-cluster-dev"
+ecs_service_name = "tarmizi-ecs-service-dev"
+ecs_task_defn_family = "tarmizi-ecs-task-def-dev"
+ecs_container_name = "tarmizi-container-dev"
+ecs_port_name = "tarmizi-3000-tcp-dev"
