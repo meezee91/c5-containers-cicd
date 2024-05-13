@@ -1,0 +1,22 @@
+{
+  "name": "c5-containers-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meezee91/c5-containers-cicd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meezee91/c5-containers-cicd/issues"
+  },
+  "homepage": "https://github.com/meezee91/c5-containers-cicd#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
